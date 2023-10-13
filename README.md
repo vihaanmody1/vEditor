@@ -9,3 +9,12 @@ You can start editing in the textbox and start formatting your content. When you
 
 ## Formatting
 Start being creative in changing fonts and sizes. To achieve this, click Font Style in Format. In the Font Style section, you can also change the theme of your editor. Clean your contents by trimming whitespace and removing empty lines. Polish your files using these tools!
+
+## Find & Replace
+To replace a word, you may go to Formatting. Note: This tool is CASE-sensitive. Be advised that the same words with different cases will not be replaced. Do not use this tool for advanced purposes.
+
+## Permissions
+
+ - You are not allowed to copy the code of vEditor 
+ - You are not allowed to hack vEditor
+ - Only post valid issues
