@@ -1,6 +1,6 @@
 # vEditor Docs
 ![](https://i.ibb.co/zFS896Z/vEditor.png)
-![https://img.shields.io/badge/vEditor-Github-blue](https://github.com/vihaanmody21/vEditor)
+![](https://img.shields.io/badge/vEditor-Github-blue)
 ## Introduction
 
 vEditor is a creative text editing software developed by 12-year-old [Vihaan Mody](http://bit.ly/vmody1). It was developed by using [Python](https://www.python.org/) and the library [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter). vEditor is a fancy editor for simple purposes providing colorful themes and easy elements to understand. You can download the latest version once the next version is released.
